@@ -4,6 +4,7 @@ The comparator circuit compares the two analog inputs, with the circuit producin
 
 
 
+![schematic](https://user-images.githubusercontent.com/100557113/156106636-74957a0f-dc08-4be2-8037-bbc2ef0d85d6.jpg)
 
 
 
