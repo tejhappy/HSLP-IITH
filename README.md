@@ -2,6 +2,14 @@
 
 In this repo we will understand the architecture and the basic response of the High Speed Low Power(HSLP) current comparator with the help of transient response plotted with the help of the synopsys tool.
 
+# TABLE OF  CONTENTS
+1.[Introduction](#Introduction)
+2.[Circuit design and details](#Circuit design and details)
+3.[Simulation waveforms](#Simulation waveforms)
+4.[Conclusion](#Conclusion)
+5.[References](#References)
+6.[Acknowledgement](#Acknowledgement)
+7.[Author](#Author)
 
 
 
