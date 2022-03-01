@@ -12,7 +12,7 @@ In this repo we will understand the architecture and the basic response of the H
 7.[Author](#Author)
 
 
-
+##Introduction
 
 This repo explains the CMOS Current Comparator circuit suitable for High Speed and Low Power applications. Current comparator’s Speed and Power consumption had been simulated and measured in 28nm CMOS process. Transient response confirms the very high-speed operation of the reference Current Comparator. In addition to the above, the circuit has very low power of 1.855μW and operates at a frequency of 20MHz with a minimal supply voltage of 0.9v
 
