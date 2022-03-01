@@ -7,9 +7,8 @@ The comparator circuit compares the two analog inputs, with the circuit producin
 ![schematic](https://user-images.githubusercontent.com/100557113/156106636-74957a0f-dc08-4be2-8037-bbc2ef0d85d6.jpg)
 
 
-
+![TRANSIENT RESPONSE](https://user-images.githubusercontent.com/100557113/156106760-d9d93fa8-1f19-4431-9819-ef17ce2d6155.jpg)
 
 The main advantage of this circuit is its high speed operation and relatively low power consumption than other conventional comparator’s like Traff current comparator. It is well suited for High Speed applications such as Data converters and Digital switching circuits.
 
 
-![TRANSIENT RESPONSE](https://user-images.githubusercontent.com/100557113/156106760-d9d93fa8-1f19-4431-9819-ef17ce2d6155.jpg)
