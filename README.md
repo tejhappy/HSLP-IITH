@@ -1,6 +1,6 @@
 # HIGH SPEED LOW POWER COMPARATOR
 
-
+In this repo we will understand the architecture and the basic response of the High Speed Low Power(HSLP) current comparator with the help of transient response plotted with the help of the synopsys tool.
 
 
 
